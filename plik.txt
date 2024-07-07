@@ -1,0 +1,7 @@
+canvas 30 15
+output output.txt
+empty_symbol   
+circle 8 7 2 0
+square 20 3 3 #
+rectangle 22 12 4 2 @
+light 15 3 .
